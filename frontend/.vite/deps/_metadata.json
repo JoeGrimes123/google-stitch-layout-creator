@@ -1,0 +1,31 @@
+{
+  "hash": "870398ff",
+  "configHash": "afd69ef5",
+  "lockfileHash": "a0b7e61e",
+  "browserHash": "dff175b9",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b917dbd1",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b3538d2e",
+      "needsInterop": true
+    },
+    "react-dnd": {
+      "src": "../../node_modules/react-dnd/dist/index.js",
+      "file": "react-dnd.js",
+      "fileHash": "4bb55e03",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OBOR3357": {
+      "file": "chunk-OBOR3357.js"
+    }
+  }
+}
